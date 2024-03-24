@@ -32,7 +32,7 @@ if (playGame) {
 }
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////
-/*
+
 let result = 
 playerOne === computer ?  `playerOne: ${playerOne}\n computer: ${computer}\n Tie`
 : playerOne === "rock" && computer === "paper" ? `playerOne: ${playerOne}\n computer: ${computer}\n
@@ -42,7 +42,7 @@ computer wins!`
 : playerOne === "scissors" && computer === "rock" ? `playerOne: ${playerOne}\n computer: ${computer}
 \n computer wins!`
 : `playerOne: ${playerOne}\n computer: ${computer}\n playerOne wins!`;
-*/
+
 
 
 

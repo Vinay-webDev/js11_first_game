@@ -35,7 +35,7 @@ if (playGame) {
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // so the logical part!*****
-/*
+
 let game = 
 // we are assigning the outcome to this variable
 playerOne === computer ? "Tie"
@@ -43,7 +43,6 @@ playerOne === computer ? "Tie"
 : playerOne === "paper" && computer === "scissors" ? `playerOne: ${playerOne}\n computer: ${computer}\n computer wins!`
 : playerOne === "scissors" && computer === "rock" ? `playerOne: ${playerOne}\n computer: ${computer}\n computer wins!`
 : `playerOne: ${playerOne}\n computer: ${computer}\n playerOne wins!`;
-*/
 
 
 
